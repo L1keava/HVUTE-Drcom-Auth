@@ -11,7 +11,7 @@
 server=10.8.200.95
 user=88888
 password="password"
-wlanacname="HBKGD-student"
+wlanacname="BRXJMHCN-W2"
 # --------- 配置区 ---------
  
 html_file="/tmp/drcom_html.log"
